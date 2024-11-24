@@ -1,6 +1,7 @@
+<!--
 ## Hi there 👋
 
-<!--
+
 **ieeooii/ieeooii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+@ieeooii
+---
+- 이력서: https://ieeooii.notion.site/14124944fe6b80ed9393c23cd5c834ef
+- email: yl9536@gmail.com
