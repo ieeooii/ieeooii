@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 @ieeooii
 ---
 - 이력서: https://ieeooii.notion.site/14124944fe6b80ed9393c23cd5c834ef
-- email: yl9536@gmail.com
+- 이메일: yl9536@gmail.com
